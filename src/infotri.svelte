@@ -18,12 +18,12 @@
 
 <div>
 	{#if avecPhrase}
-		<div class="flex justify-center pb-4">
+		<div class="flex justify-center">
 			<Phrase1 />
 		</div>
 	{/if}
 
-	<div class="flex gap-2">
+	<div class="pt-4 flex gap-2">
 		<Triman />
 		{#if categorie}
 			<div class="relative flex items-center gap-1 rounded-lg px-2 pt-1 ring-2">
