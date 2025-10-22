@@ -39,6 +39,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
-		"@gouvfr/dsfr": "^1.14.2"
+		"@gouvfr/dsfr": "^1.14.2",
+		"@sveltejs/adapter-static": "^3.0.10"
 	}
 }
